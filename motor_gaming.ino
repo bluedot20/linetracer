@@ -1,9 +1,6 @@
 #include <SoftwareSerial.h>
 #include <AFMotor.h>
 
-AF_DCMotor motor1(1);
-AF_DCMotor motor4(4);
-
 int sensor_L = A0;
 int sensor_R = A5;
 
